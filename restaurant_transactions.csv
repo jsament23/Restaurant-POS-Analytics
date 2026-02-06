@@ -1,0 +1,1001 @@
+transaction_id,item_name,timestamp,menu_price,food_cost,category
+1,Draft Beer,2026-01-22,7.0,1.5,Beverage
+2,House Salad,2026-01-17,12.0,3.0,App
+3,Lobster Roll,2026-01-09,32.0,22.0,Main
+4,Draft Beer,2026-01-01,7.0,1.5,Beverage
+5,Ribeye Steak,2026-01-21,42.0,18.0,Main
+6,Cheesecake,2026-01-20,10.0,4.0,Dessert
+7,Lobster Roll,2026-01-13,32.0,22.0,Main
+8,Lobster Roll,2026-01-28,32.0,22.0,Main
+9,Draft Beer,2026-01-16,7.0,1.5,Beverage
+10,Truffle Fries,2026-01-29,9.0,2.5,App
+11,Ribeye Steak,2026-01-13,42.0,18.0,Main
+12,Draft Beer,2026-01-14,7.0,1.5,Beverage
+13,Ribeye Steak,2026-01-03,42.0,18.0,Main
+14,Ribeye Steak,2026-01-29,42.0,18.0,Main
+15,Cheesecake,2026-01-06,10.0,4.0,Dessert
+16,Lobster Roll,2026-01-18,32.0,22.0,Main
+17,House Salad,2026-01-19,12.0,3.0,App
+18,Cheesecake,2026-01-05,10.0,4.0,Dessert
+19,Cheesecake,2026-01-15,10.0,4.0,Dessert
+20,Ribeye Steak,2026-01-25,42.0,18.0,Main
+21,Soda,2026-01-02,3.5,0.5,Beverage
+22,Lobster Roll,2026-01-10,32.0,22.0,Main
+23,Truffle Fries,2026-01-24,9.0,2.5,App
+24,Cheesecake,2026-01-30,10.0,4.0,Dessert
+25,House Salad,2026-01-18,12.0,3.0,App
+26,Soda,2026-01-27,3.5,0.5,Beverage
+27,Soda,2026-01-13,3.5,0.5,Beverage
+28,Truffle Fries,2026-01-05,9.0,2.5,App
+29,Cheesecake,2026-01-23,10.0,4.0,Dessert
+30,House Salad,2026-01-24,12.0,3.0,App
+31,Lobster Roll,2026-01-01,32.0,22.0,Main
+32,Classic Burger,2026-01-22,15.0,5.0,Main
+33,House Salad,2026-01-01,12.0,3.0,App
+34,Truffle Fries,2026-01-18,9.0,2.5,App
+35,Soda,2026-01-15,3.5,0.5,Beverage
+36,Lobster Roll,2026-01-17,32.0,22.0,Main
+37,House Salad,2026-01-11,12.0,3.0,App
+38,Classic Burger,2026-01-21,15.0,5.0,Main
+39,Classic Burger,2026-01-26,15.0,5.0,Main
+40,Ribeye Steak,2026-01-25,42.0,18.0,Main
+41,Ribeye Steak,2026-01-22,42.0,18.0,Main
+42,Draft Beer,2026-01-27,7.0,1.5,Beverage
+43,Truffle Fries,2026-01-27,9.0,2.5,App
+44,Cheesecake,2026-01-17,10.0,4.0,Dessert
+45,House Salad,2026-01-13,12.0,3.0,App
+46,House Salad,2026-01-01,12.0,3.0,App
+47,Cheesecake,2026-01-02,10.0,4.0,Dessert
+48,Draft Beer,2026-01-09,7.0,1.5,Beverage
+49,Soda,2026-01-03,3.5,0.5,Beverage
+50,Soda,2026-01-01,3.5,0.5,Beverage
+51,Draft Beer,2026-01-21,7.0,1.5,Beverage
+52,Soda,2026-01-16,3.5,0.5,Beverage
+53,Ribeye Steak,2026-01-23,42.0,18.0,Main
+54,House Salad,2026-01-06,12.0,3.0,App
+55,Draft Beer,2026-01-28,7.0,1.5,Beverage
+56,House Salad,2026-01-17,12.0,3.0,App
+57,Cheesecake,2026-01-05,10.0,4.0,Dessert
+58,Classic Burger,2026-01-05,15.0,5.0,Main
+59,Ribeye Steak,2026-01-06,42.0,18.0,Main
+60,Lobster Roll,2026-01-03,32.0,22.0,Main
+61,Ribeye Steak,2026-01-21,42.0,18.0,Main
+62,Draft Beer,2026-01-23,7.0,1.5,Beverage
+63,Lobster Roll,2026-01-05,32.0,22.0,Main
+64,Classic Burger,2026-01-21,15.0,5.0,Main
+65,Draft Beer,2026-01-05,7.0,1.5,Beverage
+66,Truffle Fries,2026-01-10,9.0,2.5,App
+67,House Salad,2026-01-10,12.0,3.0,App
+68,Classic Burger,2026-01-19,15.0,5.0,Main
+69,House Salad,2026-01-17,12.0,3.0,App
+70,Soda,2026-01-21,3.5,0.5,Beverage
+71,Truffle Fries,2026-01-14,9.0,2.5,App
+72,Truffle Fries,2026-01-09,9.0,2.5,App
+73,Classic Burger,2026-01-14,15.0,5.0,Main
+74,Truffle Fries,2026-01-01,9.0,2.5,App
+75,Lobster Roll,2026-01-19,32.0,22.0,Main
+76,Truffle Fries,2026-01-13,9.0,2.5,App
+77,House Salad,2026-01-13,12.0,3.0,App
+78,House Salad,2026-01-04,12.0,3.0,App
+79,Draft Beer,2026-01-30,7.0,1.5,Beverage
+80,House Salad,2026-01-01,12.0,3.0,App
+81,Draft Beer,2026-01-17,7.0,1.5,Beverage
+82,House Salad,2026-01-08,12.0,3.0,App
+83,Lobster Roll,2026-01-02,32.0,22.0,Main
+84,Cheesecake,2026-01-28,10.0,4.0,Dessert
+85,Draft Beer,2026-01-08,7.0,1.5,Beverage
+86,Ribeye Steak,2026-01-07,42.0,18.0,Main
+87,Soda,2026-01-26,3.5,0.5,Beverage
+88,Classic Burger,2026-01-26,15.0,5.0,Main
+89,House Salad,2026-01-02,12.0,3.0,App
+90,Truffle Fries,2026-01-22,9.0,2.5,App
+91,Cheesecake,2026-01-22,10.0,4.0,Dessert
+92,House Salad,2026-01-03,12.0,3.0,App
+93,Truffle Fries,2026-01-27,9.0,2.5,App
+94,Soda,2026-01-18,3.5,0.5,Beverage
+95,Soda,2026-01-12,3.5,0.5,Beverage
+96,Soda,2026-01-01,3.5,0.5,Beverage
+97,Truffle Fries,2026-01-22,9.0,2.5,App
+98,House Salad,2026-01-12,12.0,3.0,App
+99,Soda,2026-01-05,3.5,0.5,Beverage
+100,Lobster Roll,2026-01-30,32.0,22.0,Main
+101,Draft Beer,2026-01-30,7.0,1.5,Beverage
+102,Truffle Fries,2026-01-27,9.0,2.5,App
+103,Truffle Fries,2026-01-25,9.0,2.5,App
+104,House Salad,2026-01-17,12.0,3.0,App
+105,Truffle Fries,2026-01-16,9.0,2.5,App
+106,Truffle Fries,2026-01-15,9.0,2.5,App
+107,Soda,2026-01-23,3.5,0.5,Beverage
+108,House Salad,2026-01-15,12.0,3.0,App
+109,Soda,2026-01-05,3.5,0.5,Beverage
+110,Draft Beer,2026-01-21,7.0,1.5,Beverage
+111,Cheesecake,2026-01-14,10.0,4.0,Dessert
+112,Draft Beer,2026-01-02,7.0,1.5,Beverage
+113,Cheesecake,2026-01-11,10.0,4.0,Dessert
+114,Soda,2026-01-19,3.5,0.5,Beverage
+115,Draft Beer,2026-01-07,7.0,1.5,Beverage
+116,House Salad,2026-01-06,12.0,3.0,App
+117,Classic Burger,2026-01-28,15.0,5.0,Main
+118,Soda,2026-01-02,3.5,0.5,Beverage
+119,Cheesecake,2026-01-06,10.0,4.0,Dessert
+120,Lobster Roll,2026-01-18,32.0,22.0,Main
+121,Cheesecake,2026-01-02,10.0,4.0,Dessert
+122,Lobster Roll,2026-01-18,32.0,22.0,Main
+123,Truffle Fries,2026-01-30,9.0,2.5,App
+124,Draft Beer,2026-01-15,7.0,1.5,Beverage
+125,Lobster Roll,2026-01-27,32.0,22.0,Main
+126,Cheesecake,2026-01-19,10.0,4.0,Dessert
+127,Truffle Fries,2026-01-02,9.0,2.5,App
+128,Classic Burger,2026-01-20,15.0,5.0,Main
+129,House Salad,2026-01-25,12.0,3.0,App
+130,House Salad,2026-01-06,12.0,3.0,App
+131,House Salad,2026-01-01,12.0,3.0,App
+132,Lobster Roll,2026-01-24,32.0,22.0,Main
+133,Classic Burger,2026-01-15,15.0,5.0,Main
+134,Lobster Roll,2026-01-28,32.0,22.0,Main
+135,Draft Beer,2026-01-30,7.0,1.5,Beverage
+136,Lobster Roll,2026-01-23,32.0,22.0,Main
+137,Classic Burger,2026-01-10,15.0,5.0,Main
+138,Classic Burger,2026-01-19,15.0,5.0,Main
+139,Draft Beer,2026-01-17,7.0,1.5,Beverage
+140,Classic Burger,2026-01-05,15.0,5.0,Main
+141,Cheesecake,2026-01-29,10.0,4.0,Dessert
+142,Classic Burger,2026-01-04,15.0,5.0,Main
+143,House Salad,2026-01-10,12.0,3.0,App
+144,Cheesecake,2026-01-24,10.0,4.0,Dessert
+145,Cheesecake,2026-01-17,10.0,4.0,Dessert
+146,Draft Beer,2026-01-10,7.0,1.5,Beverage
+147,Ribeye Steak,2026-01-17,42.0,18.0,Main
+148,Ribeye Steak,2026-01-28,42.0,18.0,Main
+149,Classic Burger,2026-01-20,15.0,5.0,Main
+150,Cheesecake,2026-01-24,10.0,4.0,Dessert
+151,Ribeye Steak,2026-01-05,42.0,18.0,Main
+152,Ribeye Steak,2026-01-02,42.0,18.0,Main
+153,Classic Burger,2026-01-06,15.0,5.0,Main
+154,Ribeye Steak,2026-01-21,42.0,18.0,Main
+155,Lobster Roll,2026-01-02,32.0,22.0,Main
+156,Truffle Fries,2026-01-13,9.0,2.5,App
+157,Draft Beer,2026-01-30,7.0,1.5,Beverage
+158,Truffle Fries,2026-01-11,9.0,2.5,App
+159,Classic Burger,2026-01-11,15.0,5.0,Main
+160,House Salad,2026-01-16,12.0,3.0,App
+161,Draft Beer,2026-01-11,7.0,1.5,Beverage
+162,Classic Burger,2026-01-19,15.0,5.0,Main
+163,Cheesecake,2026-01-15,10.0,4.0,Dessert
+164,House Salad,2026-01-25,12.0,3.0,App
+165,Truffle Fries,2026-01-23,9.0,2.5,App
+166,Classic Burger,2026-01-23,15.0,5.0,Main
+167,Cheesecake,2026-01-16,10.0,4.0,Dessert
+168,Draft Beer,2026-01-11,7.0,1.5,Beverage
+169,Draft Beer,2026-01-22,7.0,1.5,Beverage
+170,Soda,2026-01-16,3.5,0.5,Beverage
+171,Cheesecake,2026-01-08,10.0,4.0,Dessert
+172,Lobster Roll,2026-01-04,32.0,22.0,Main
+173,Ribeye Steak,2026-01-08,42.0,18.0,Main
+174,House Salad,2026-01-04,12.0,3.0,App
+175,Cheesecake,2026-01-24,10.0,4.0,Dessert
+176,Soda,2026-01-25,3.5,0.5,Beverage
+177,Ribeye Steak,2026-01-03,42.0,18.0,Main
+178,Ribeye Steak,2026-01-03,42.0,18.0,Main
+179,Classic Burger,2026-01-27,15.0,5.0,Main
+180,Ribeye Steak,2026-01-29,42.0,18.0,Main
+181,Lobster Roll,2026-01-18,32.0,22.0,Main
+182,Draft Beer,2026-01-29,7.0,1.5,Beverage
+183,Soda,2026-01-26,3.5,0.5,Beverage
+184,Ribeye Steak,2026-01-19,42.0,18.0,Main
+185,Classic Burger,2026-01-19,15.0,5.0,Main
+186,Lobster Roll,2026-01-21,32.0,22.0,Main
+187,Truffle Fries,2026-01-05,9.0,2.5,App
+188,Draft Beer,2026-01-18,7.0,1.5,Beverage
+189,Draft Beer,2026-01-28,7.0,1.5,Beverage
+190,Soda,2026-01-10,3.5,0.5,Beverage
+191,Draft Beer,2026-01-29,7.0,1.5,Beverage
+192,Ribeye Steak,2026-01-22,42.0,18.0,Main
+193,Classic Burger,2026-01-21,15.0,5.0,Main
+194,Draft Beer,2026-01-06,7.0,1.5,Beverage
+195,Draft Beer,2026-01-01,7.0,1.5,Beverage
+196,Truffle Fries,2026-01-05,9.0,2.5,App
+197,Truffle Fries,2026-01-09,9.0,2.5,App
+198,House Salad,2026-01-12,12.0,3.0,App
+199,Lobster Roll,2026-01-26,32.0,22.0,Main
+200,Ribeye Steak,2026-01-14,42.0,18.0,Main
+201,Draft Beer,2026-01-02,7.0,1.5,Beverage
+202,Cheesecake,2026-01-17,10.0,4.0,Dessert
+203,Draft Beer,2026-01-14,7.0,1.5,Beverage
+204,Classic Burger,2026-01-26,15.0,5.0,Main
+205,House Salad,2026-01-13,12.0,3.0,App
+206,Lobster Roll,2026-01-27,32.0,22.0,Main
+207,Cheesecake,2026-01-09,10.0,4.0,Dessert
+208,House Salad,2026-01-26,12.0,3.0,App
+209,Soda,2026-01-25,3.5,0.5,Beverage
+210,Lobster Roll,2026-01-15,32.0,22.0,Main
+211,Draft Beer,2026-01-25,7.0,1.5,Beverage
+212,Draft Beer,2026-01-22,7.0,1.5,Beverage
+213,Lobster Roll,2026-01-15,32.0,22.0,Main
+214,Draft Beer,2026-01-24,7.0,1.5,Beverage
+215,Ribeye Steak,2026-01-30,42.0,18.0,Main
+216,Lobster Roll,2026-01-11,32.0,22.0,Main
+217,House Salad,2026-01-16,12.0,3.0,App
+218,Lobster Roll,2026-01-29,32.0,22.0,Main
+219,Cheesecake,2026-01-17,10.0,4.0,Dessert
+220,Draft Beer,2026-01-26,7.0,1.5,Beverage
+221,Ribeye Steak,2026-01-04,42.0,18.0,Main
+222,Ribeye Steak,2026-01-01,42.0,18.0,Main
+223,Soda,2026-01-08,3.5,0.5,Beverage
+224,House Salad,2026-01-17,12.0,3.0,App
+225,Truffle Fries,2026-01-03,9.0,2.5,App
+226,Truffle Fries,2026-01-29,9.0,2.5,App
+227,Lobster Roll,2026-01-20,32.0,22.0,Main
+228,Soda,2026-01-15,3.5,0.5,Beverage
+229,Classic Burger,2026-01-15,15.0,5.0,Main
+230,Lobster Roll,2026-01-24,32.0,22.0,Main
+231,Soda,2026-01-22,3.5,0.5,Beverage
+232,House Salad,2026-01-14,12.0,3.0,App
+233,House Salad,2026-01-26,12.0,3.0,App
+234,House Salad,2026-01-28,12.0,3.0,App
+235,House Salad,2026-01-23,12.0,3.0,App
+236,House Salad,2026-01-14,12.0,3.0,App
+237,Soda,2026-01-24,3.5,0.5,Beverage
+238,Soda,2026-01-02,3.5,0.5,Beverage
+239,Ribeye Steak,2026-01-13,42.0,18.0,Main
+240,Cheesecake,2026-01-26,10.0,4.0,Dessert
+241,Truffle Fries,2026-01-14,9.0,2.5,App
+242,Draft Beer,2026-01-27,7.0,1.5,Beverage
+243,House Salad,2026-01-24,12.0,3.0,App
+244,Classic Burger,2026-01-19,15.0,5.0,Main
+245,Draft Beer,2026-01-07,7.0,1.5,Beverage
+246,Soda,2026-01-03,3.5,0.5,Beverage
+247,Classic Burger,2026-01-15,15.0,5.0,Main
+248,Classic Burger,2026-01-23,15.0,5.0,Main
+249,Classic Burger,2026-01-14,15.0,5.0,Main
+250,Ribeye Steak,2026-01-11,42.0,18.0,Main
+251,Soda,2026-01-15,3.5,0.5,Beverage
+252,Classic Burger,2026-01-28,15.0,5.0,Main
+253,House Salad,2026-01-13,12.0,3.0,App
+254,Lobster Roll,2026-01-18,32.0,22.0,Main
+255,Classic Burger,2026-01-26,15.0,5.0,Main
+256,Ribeye Steak,2026-01-06,42.0,18.0,Main
+257,Draft Beer,2026-01-03,7.0,1.5,Beverage
+258,Soda,2026-01-19,3.5,0.5,Beverage
+259,Cheesecake,2026-01-15,10.0,4.0,Dessert
+260,Ribeye Steak,2026-01-25,42.0,18.0,Main
+261,Classic Burger,2026-01-23,15.0,5.0,Main
+262,Soda,2026-01-05,3.5,0.5,Beverage
+263,Lobster Roll,2026-01-28,32.0,22.0,Main
+264,Classic Burger,2026-01-10,15.0,5.0,Main
+265,Ribeye Steak,2026-01-07,42.0,18.0,Main
+266,Truffle Fries,2026-01-25,9.0,2.5,App
+267,House Salad,2026-01-17,12.0,3.0,App
+268,Cheesecake,2026-01-07,10.0,4.0,Dessert
+269,Draft Beer,2026-01-22,7.0,1.5,Beverage
+270,Ribeye Steak,2026-01-26,42.0,18.0,Main
+271,Soda,2026-01-30,3.5,0.5,Beverage
+272,Cheesecake,2026-01-12,10.0,4.0,Dessert
+273,Cheesecake,2026-01-25,10.0,4.0,Dessert
+274,Cheesecake,2026-01-17,10.0,4.0,Dessert
+275,Classic Burger,2026-01-13,15.0,5.0,Main
+276,House Salad,2026-01-20,12.0,3.0,App
+277,Classic Burger,2026-01-25,15.0,5.0,Main
+278,Soda,2026-01-04,3.5,0.5,Beverage
+279,Classic Burger,2026-01-10,15.0,5.0,Main
+280,Truffle Fries,2026-01-03,9.0,2.5,App
+281,House Salad,2026-01-09,12.0,3.0,App
+282,House Salad,2026-01-13,12.0,3.0,App
+283,Soda,2026-01-18,3.5,0.5,Beverage
+284,Draft Beer,2026-01-15,7.0,1.5,Beverage
+285,Truffle Fries,2026-01-04,9.0,2.5,App
+286,Ribeye Steak,2026-01-15,42.0,18.0,Main
+287,Classic Burger,2026-01-22,15.0,5.0,Main
+288,Lobster Roll,2026-01-02,32.0,22.0,Main
+289,Classic Burger,2026-01-15,15.0,5.0,Main
+290,Cheesecake,2026-01-08,10.0,4.0,Dessert
+291,Classic Burger,2026-01-08,15.0,5.0,Main
+292,Ribeye Steak,2026-01-17,42.0,18.0,Main
+293,Classic Burger,2026-01-12,15.0,5.0,Main
+294,Truffle Fries,2026-01-19,9.0,2.5,App
+295,Truffle Fries,2026-01-10,9.0,2.5,App
+296,House Salad,2026-01-09,12.0,3.0,App
+297,Soda,2026-01-05,3.5,0.5,Beverage
+298,Draft Beer,2026-01-06,7.0,1.5,Beverage
+299,Lobster Roll,2026-01-20,32.0,22.0,Main
+300,Cheesecake,2026-01-26,10.0,4.0,Dessert
+301,Classic Burger,2026-01-02,15.0,5.0,Main
+302,Classic Burger,2026-01-27,15.0,5.0,Main
+303,Ribeye Steak,2026-01-24,42.0,18.0,Main
+304,Soda,2026-01-27,3.5,0.5,Beverage
+305,Truffle Fries,2026-01-13,9.0,2.5,App
+306,Lobster Roll,2026-01-06,32.0,22.0,Main
+307,House Salad,2026-01-05,12.0,3.0,App
+308,Truffle Fries,2026-01-25,9.0,2.5,App
+309,Cheesecake,2026-01-01,10.0,4.0,Dessert
+310,Soda,2026-01-21,3.5,0.5,Beverage
+311,Cheesecake,2026-01-22,10.0,4.0,Dessert
+312,Draft Beer,2026-01-21,7.0,1.5,Beverage
+313,House Salad,2026-01-06,12.0,3.0,App
+314,Draft Beer,2026-01-06,7.0,1.5,Beverage
+315,Ribeye Steak,2026-01-23,42.0,18.0,Main
+316,Cheesecake,2026-01-16,10.0,4.0,Dessert
+317,Ribeye Steak,2026-01-04,42.0,18.0,Main
+318,Classic Burger,2026-01-30,15.0,5.0,Main
+319,Draft Beer,2026-01-11,7.0,1.5,Beverage
+320,Soda,2026-01-30,3.5,0.5,Beverage
+321,Cheesecake,2026-01-30,10.0,4.0,Dessert
+322,Lobster Roll,2026-01-30,32.0,22.0,Main
+323,House Salad,2026-01-24,12.0,3.0,App
+324,Truffle Fries,2026-01-23,9.0,2.5,App
+325,Soda,2026-01-09,3.5,0.5,Beverage
+326,Soda,2026-01-23,3.5,0.5,Beverage
+327,Ribeye Steak,2026-01-03,42.0,18.0,Main
+328,Draft Beer,2026-01-19,7.0,1.5,Beverage
+329,Cheesecake,2026-01-08,10.0,4.0,Dessert
+330,Cheesecake,2026-01-05,10.0,4.0,Dessert
+331,Classic Burger,2026-01-04,15.0,5.0,Main
+332,Classic Burger,2026-01-24,15.0,5.0,Main
+333,House Salad,2026-01-06,12.0,3.0,App
+334,Ribeye Steak,2026-01-02,42.0,18.0,Main
+335,Soda,2026-01-20,3.5,0.5,Beverage
+336,Cheesecake,2026-01-28,10.0,4.0,Dessert
+337,Lobster Roll,2026-01-11,32.0,22.0,Main
+338,Ribeye Steak,2026-01-04,42.0,18.0,Main
+339,House Salad,2026-01-15,12.0,3.0,App
+340,House Salad,2026-01-06,12.0,3.0,App
+341,Ribeye Steak,2026-01-22,42.0,18.0,Main
+342,House Salad,2026-01-17,12.0,3.0,App
+343,Ribeye Steak,2026-01-30,42.0,18.0,Main
+344,Truffle Fries,2026-01-24,9.0,2.5,App
+345,Ribeye Steak,2026-01-06,42.0,18.0,Main
+346,Draft Beer,2026-01-19,7.0,1.5,Beverage
+347,Ribeye Steak,2026-01-30,42.0,18.0,Main
+348,House Salad,2026-01-25,12.0,3.0,App
+349,Cheesecake,2026-01-02,10.0,4.0,Dessert
+350,Draft Beer,2026-01-15,7.0,1.5,Beverage
+351,House Salad,2026-01-11,12.0,3.0,App
+352,Classic Burger,2026-01-08,15.0,5.0,Main
+353,Classic Burger,2026-01-26,15.0,5.0,Main
+354,Cheesecake,2026-01-19,10.0,4.0,Dessert
+355,Cheesecake,2026-01-13,10.0,4.0,Dessert
+356,Draft Beer,2026-01-12,7.0,1.5,Beverage
+357,Truffle Fries,2026-01-05,9.0,2.5,App
+358,Cheesecake,2026-01-06,10.0,4.0,Dessert
+359,Classic Burger,2026-01-26,15.0,5.0,Main
+360,Ribeye Steak,2026-01-22,42.0,18.0,Main
+361,House Salad,2026-01-04,12.0,3.0,App
+362,Classic Burger,2026-01-19,15.0,5.0,Main
+363,Classic Burger,2026-01-20,15.0,5.0,Main
+364,Truffle Fries,2026-01-01,9.0,2.5,App
+365,Draft Beer,2026-01-20,7.0,1.5,Beverage
+366,Draft Beer,2026-01-17,7.0,1.5,Beverage
+367,Soda,2026-01-12,3.5,0.5,Beverage
+368,Truffle Fries,2026-01-15,9.0,2.5,App
+369,Ribeye Steak,2026-01-01,42.0,18.0,Main
+370,Draft Beer,2026-01-26,7.0,1.5,Beverage
+371,House Salad,2026-01-14,12.0,3.0,App
+372,Cheesecake,2026-01-06,10.0,4.0,Dessert
+373,Truffle Fries,2026-01-05,9.0,2.5,App
+374,Cheesecake,2026-01-30,10.0,4.0,Dessert
+375,Classic Burger,2026-01-11,15.0,5.0,Main
+376,House Salad,2026-01-04,12.0,3.0,App
+377,House Salad,2026-01-13,12.0,3.0,App
+378,Classic Burger,2026-01-11,15.0,5.0,Main
+379,Truffle Fries,2026-01-03,9.0,2.5,App
+380,Classic Burger,2026-01-01,15.0,5.0,Main
+381,Cheesecake,2026-01-06,10.0,4.0,Dessert
+382,Soda,2026-01-18,3.5,0.5,Beverage
+383,House Salad,2026-01-24,12.0,3.0,App
+384,Lobster Roll,2026-01-10,32.0,22.0,Main
+385,Lobster Roll,2026-01-05,32.0,22.0,Main
+386,Cheesecake,2026-01-23,10.0,4.0,Dessert
+387,Ribeye Steak,2026-01-10,42.0,18.0,Main
+388,Draft Beer,2026-01-12,7.0,1.5,Beverage
+389,Classic Burger,2026-01-02,15.0,5.0,Main
+390,Classic Burger,2026-01-13,15.0,5.0,Main
+391,Ribeye Steak,2026-01-08,42.0,18.0,Main
+392,Ribeye Steak,2026-01-02,42.0,18.0,Main
+393,Cheesecake,2026-01-20,10.0,4.0,Dessert
+394,Cheesecake,2026-01-01,10.0,4.0,Dessert
+395,Ribeye Steak,2026-01-05,42.0,18.0,Main
+396,House Salad,2026-01-09,12.0,3.0,App
+397,Cheesecake,2026-01-17,10.0,4.0,Dessert
+398,Soda,2026-01-09,3.5,0.5,Beverage
+399,Cheesecake,2026-01-11,10.0,4.0,Dessert
+400,Classic Burger,2026-01-15,15.0,5.0,Main
+401,Cheesecake,2026-01-24,10.0,4.0,Dessert
+402,House Salad,2026-01-06,12.0,3.0,App
+403,Ribeye Steak,2026-01-23,42.0,18.0,Main
+404,Classic Burger,2026-01-03,15.0,5.0,Main
+405,Cheesecake,2026-01-30,10.0,4.0,Dessert
+406,House Salad,2026-01-17,12.0,3.0,App
+407,Soda,2026-01-05,3.5,0.5,Beverage
+408,Cheesecake,2026-01-30,10.0,4.0,Dessert
+409,House Salad,2026-01-28,12.0,3.0,App
+410,Soda,2026-01-12,3.5,0.5,Beverage
+411,Ribeye Steak,2026-01-18,42.0,18.0,Main
+412,Cheesecake,2026-01-14,10.0,4.0,Dessert
+413,Soda,2026-01-21,3.5,0.5,Beverage
+414,Classic Burger,2026-01-24,15.0,5.0,Main
+415,Ribeye Steak,2026-01-11,42.0,18.0,Main
+416,Classic Burger,2026-01-09,15.0,5.0,Main
+417,Lobster Roll,2026-01-02,32.0,22.0,Main
+418,Truffle Fries,2026-01-12,9.0,2.5,App
+419,Cheesecake,2026-01-03,10.0,4.0,Dessert
+420,Soda,2026-01-03,3.5,0.5,Beverage
+421,Truffle Fries,2026-01-01,9.0,2.5,App
+422,Truffle Fries,2026-01-08,9.0,2.5,App
+423,Soda,2026-01-22,3.5,0.5,Beverage
+424,Ribeye Steak,2026-01-28,42.0,18.0,Main
+425,Cheesecake,2026-01-29,10.0,4.0,Dessert
+426,Lobster Roll,2026-01-08,32.0,22.0,Main
+427,Classic Burger,2026-01-11,15.0,5.0,Main
+428,House Salad,2026-01-09,12.0,3.0,App
+429,Classic Burger,2026-01-05,15.0,5.0,Main
+430,House Salad,2026-01-14,12.0,3.0,App
+431,Classic Burger,2026-01-28,15.0,5.0,Main
+432,Soda,2026-01-30,3.5,0.5,Beverage
+433,Lobster Roll,2026-01-03,32.0,22.0,Main
+434,Cheesecake,2026-01-21,10.0,4.0,Dessert
+435,House Salad,2026-01-05,12.0,3.0,App
+436,Cheesecake,2026-01-05,10.0,4.0,Dessert
+437,Cheesecake,2026-01-19,10.0,4.0,Dessert
+438,Cheesecake,2026-01-27,10.0,4.0,Dessert
+439,Draft Beer,2026-01-14,7.0,1.5,Beverage
+440,Ribeye Steak,2026-01-26,42.0,18.0,Main
+441,Classic Burger,2026-01-30,15.0,5.0,Main
+442,Cheesecake,2026-01-04,10.0,4.0,Dessert
+443,Classic Burger,2026-01-25,15.0,5.0,Main
+444,Cheesecake,2026-01-13,10.0,4.0,Dessert
+445,House Salad,2026-01-10,12.0,3.0,App
+446,Ribeye Steak,2026-01-25,42.0,18.0,Main
+447,Ribeye Steak,2026-01-18,42.0,18.0,Main
+448,Soda,2026-01-08,3.5,0.5,Beverage
+449,Draft Beer,2026-01-08,7.0,1.5,Beverage
+450,Soda,2026-01-07,3.5,0.5,Beverage
+451,Soda,2026-01-08,3.5,0.5,Beverage
+452,Soda,2026-01-14,3.5,0.5,Beverage
+453,Soda,2026-01-19,3.5,0.5,Beverage
+454,Soda,2026-01-29,3.5,0.5,Beverage
+455,Lobster Roll,2026-01-06,32.0,22.0,Main
+456,Ribeye Steak,2026-01-01,42.0,18.0,Main
+457,Soda,2026-01-23,3.5,0.5,Beverage
+458,Cheesecake,2026-01-15,10.0,4.0,Dessert
+459,Ribeye Steak,2026-01-01,42.0,18.0,Main
+460,Ribeye Steak,2026-01-25,42.0,18.0,Main
+461,Truffle Fries,2026-01-17,9.0,2.5,App
+462,Lobster Roll,2026-01-01,32.0,22.0,Main
+463,Soda,2026-01-15,3.5,0.5,Beverage
+464,Classic Burger,2026-01-23,15.0,5.0,Main
+465,House Salad,2026-01-02,12.0,3.0,App
+466,Draft Beer,2026-01-14,7.0,1.5,Beverage
+467,Cheesecake,2026-01-21,10.0,4.0,Dessert
+468,Classic Burger,2026-01-08,15.0,5.0,Main
+469,Lobster Roll,2026-01-08,32.0,22.0,Main
+470,House Salad,2026-01-19,12.0,3.0,App
+471,Lobster Roll,2026-01-07,32.0,22.0,Main
+472,Cheesecake,2026-01-19,10.0,4.0,Dessert
+473,Ribeye Steak,2026-01-06,42.0,18.0,Main
+474,House Salad,2026-01-06,12.0,3.0,App
+475,Ribeye Steak,2026-01-03,42.0,18.0,Main
+476,Cheesecake,2026-01-07,10.0,4.0,Dessert
+477,Classic Burger,2026-01-19,15.0,5.0,Main
+478,Cheesecake,2026-01-08,10.0,4.0,Dessert
+479,Classic Burger,2026-01-10,15.0,5.0,Main
+480,House Salad,2026-01-20,12.0,3.0,App
+481,House Salad,2026-01-15,12.0,3.0,App
+482,Soda,2026-01-15,3.5,0.5,Beverage
+483,Lobster Roll,2026-01-29,32.0,22.0,Main
+484,Soda,2026-01-01,3.5,0.5,Beverage
+485,Lobster Roll,2026-01-20,32.0,22.0,Main
+486,Soda,2026-01-30,3.5,0.5,Beverage
+487,Ribeye Steak,2026-01-07,42.0,18.0,Main
+488,House Salad,2026-01-27,12.0,3.0,App
+489,Classic Burger,2026-01-04,15.0,5.0,Main
+490,Lobster Roll,2026-01-29,32.0,22.0,Main
+491,Cheesecake,2026-01-06,10.0,4.0,Dessert
+492,Lobster Roll,2026-01-25,32.0,22.0,Main
+493,Classic Burger,2026-01-01,15.0,5.0,Main
+494,Soda,2026-01-29,3.5,0.5,Beverage
+495,Lobster Roll,2026-01-05,32.0,22.0,Main
+496,Draft Beer,2026-01-27,7.0,1.5,Beverage
+497,Ribeye Steak,2026-01-23,42.0,18.0,Main
+498,House Salad,2026-01-01,12.0,3.0,App
+499,Classic Burger,2026-01-30,15.0,5.0,Main
+500,House Salad,2026-01-04,12.0,3.0,App
+501,Draft Beer,2026-01-22,7.0,1.5,Beverage
+502,Lobster Roll,2026-01-02,32.0,22.0,Main
+503,Lobster Roll,2026-01-10,32.0,22.0,Main
+504,Cheesecake,2026-01-05,10.0,4.0,Dessert
+505,Draft Beer,2026-01-27,7.0,1.5,Beverage
+506,Classic Burger,2026-01-10,15.0,5.0,Main
+507,Cheesecake,2026-01-01,10.0,4.0,Dessert
+508,Ribeye Steak,2026-01-22,42.0,18.0,Main
+509,Cheesecake,2026-01-06,10.0,4.0,Dessert
+510,Truffle Fries,2026-01-13,9.0,2.5,App
+511,Classic Burger,2026-01-15,15.0,5.0,Main
+512,Truffle Fries,2026-01-04,9.0,2.5,App
+513,Draft Beer,2026-01-13,7.0,1.5,Beverage
+514,Soda,2026-01-24,3.5,0.5,Beverage
+515,Truffle Fries,2026-01-20,9.0,2.5,App
+516,Ribeye Steak,2026-01-24,42.0,18.0,Main
+517,Cheesecake,2026-01-15,10.0,4.0,Dessert
+518,Soda,2026-01-29,3.5,0.5,Beverage
+519,Cheesecake,2026-01-08,10.0,4.0,Dessert
+520,Truffle Fries,2026-01-05,9.0,2.5,App
+521,Cheesecake,2026-01-29,10.0,4.0,Dessert
+522,Draft Beer,2026-01-15,7.0,1.5,Beverage
+523,Soda,2026-01-04,3.5,0.5,Beverage
+524,Draft Beer,2026-01-12,7.0,1.5,Beverage
+525,Truffle Fries,2026-01-13,9.0,2.5,App
+526,Draft Beer,2026-01-02,7.0,1.5,Beverage
+527,Ribeye Steak,2026-01-27,42.0,18.0,Main
+528,Truffle Fries,2026-01-19,9.0,2.5,App
+529,Truffle Fries,2026-01-19,9.0,2.5,App
+530,Truffle Fries,2026-01-04,9.0,2.5,App
+531,Classic Burger,2026-01-04,15.0,5.0,Main
+532,Cheesecake,2026-01-26,10.0,4.0,Dessert
+533,Classic Burger,2026-01-11,15.0,5.0,Main
+534,Classic Burger,2026-01-27,15.0,5.0,Main
+535,Ribeye Steak,2026-01-05,42.0,18.0,Main
+536,Soda,2026-01-20,3.5,0.5,Beverage
+537,Cheesecake,2026-01-11,10.0,4.0,Dessert
+538,Draft Beer,2026-01-30,7.0,1.5,Beverage
+539,Lobster Roll,2026-01-10,32.0,22.0,Main
+540,Truffle Fries,2026-01-08,9.0,2.5,App
+541,Draft Beer,2026-01-06,7.0,1.5,Beverage
+542,Truffle Fries,2026-01-06,9.0,2.5,App
+543,Ribeye Steak,2026-01-08,42.0,18.0,Main
+544,Truffle Fries,2026-01-23,9.0,2.5,App
+545,Classic Burger,2026-01-15,15.0,5.0,Main
+546,Cheesecake,2026-01-26,10.0,4.0,Dessert
+547,Lobster Roll,2026-01-14,32.0,22.0,Main
+548,House Salad,2026-01-11,12.0,3.0,App
+549,Truffle Fries,2026-01-12,9.0,2.5,App
+550,Draft Beer,2026-01-26,7.0,1.5,Beverage
+551,Classic Burger,2026-01-13,15.0,5.0,Main
+552,House Salad,2026-01-08,12.0,3.0,App
+553,Lobster Roll,2026-01-30,32.0,22.0,Main
+554,House Salad,2026-01-18,12.0,3.0,App
+555,Classic Burger,2026-01-25,15.0,5.0,Main
+556,Cheesecake,2026-01-01,10.0,4.0,Dessert
+557,Cheesecake,2026-01-15,10.0,4.0,Dessert
+558,Soda,2026-01-08,3.5,0.5,Beverage
+559,Cheesecake,2026-01-28,10.0,4.0,Dessert
+560,Soda,2026-01-11,3.5,0.5,Beverage
+561,House Salad,2026-01-12,12.0,3.0,App
+562,Ribeye Steak,2026-01-12,42.0,18.0,Main
+563,Draft Beer,2026-01-04,7.0,1.5,Beverage
+564,Draft Beer,2026-01-16,7.0,1.5,Beverage
+565,House Salad,2026-01-04,12.0,3.0,App
+566,Truffle Fries,2026-01-05,9.0,2.5,App
+567,Truffle Fries,2026-01-24,9.0,2.5,App
+568,Cheesecake,2026-01-05,10.0,4.0,Dessert
+569,Draft Beer,2026-01-08,7.0,1.5,Beverage
+570,Draft Beer,2026-01-10,7.0,1.5,Beverage
+571,Soda,2026-01-17,3.5,0.5,Beverage
+572,Ribeye Steak,2026-01-28,42.0,18.0,Main
+573,Classic Burger,2026-01-26,15.0,5.0,Main
+574,Truffle Fries,2026-01-09,9.0,2.5,App
+575,Draft Beer,2026-01-22,7.0,1.5,Beverage
+576,Soda,2026-01-19,3.5,0.5,Beverage
+577,Lobster Roll,2026-01-29,32.0,22.0,Main
+578,Soda,2026-01-14,3.5,0.5,Beverage
+579,Truffle Fries,2026-01-08,9.0,2.5,App
+580,Truffle Fries,2026-01-09,9.0,2.5,App
+581,Soda,2026-01-22,3.5,0.5,Beverage
+582,Classic Burger,2026-01-11,15.0,5.0,Main
+583,House Salad,2026-01-23,12.0,3.0,App
+584,Truffle Fries,2026-01-01,9.0,2.5,App
+585,Soda,2026-01-14,3.5,0.5,Beverage
+586,Draft Beer,2026-01-05,7.0,1.5,Beverage
+587,Soda,2026-01-21,3.5,0.5,Beverage
+588,Ribeye Steak,2026-01-26,42.0,18.0,Main
+589,House Salad,2026-01-14,12.0,3.0,App
+590,Lobster Roll,2026-01-04,32.0,22.0,Main
+591,Classic Burger,2026-01-22,15.0,5.0,Main
+592,Cheesecake,2026-01-23,10.0,4.0,Dessert
+593,Lobster Roll,2026-01-25,32.0,22.0,Main
+594,House Salad,2026-01-01,12.0,3.0,App
+595,House Salad,2026-01-22,12.0,3.0,App
+596,House Salad,2026-01-23,12.0,3.0,App
+597,Lobster Roll,2026-01-19,32.0,22.0,Main
+598,Draft Beer,2026-01-08,7.0,1.5,Beverage
+599,House Salad,2026-01-15,12.0,3.0,App
+600,Soda,2026-01-21,3.5,0.5,Beverage
+601,Lobster Roll,2026-01-15,32.0,22.0,Main
+602,Cheesecake,2026-01-09,10.0,4.0,Dessert
+603,House Salad,2026-01-21,12.0,3.0,App
+604,Soda,2026-01-09,3.5,0.5,Beverage
+605,Draft Beer,2026-01-10,7.0,1.5,Beverage
+606,Ribeye Steak,2026-01-20,42.0,18.0,Main
+607,Draft Beer,2026-01-25,7.0,1.5,Beverage
+608,Cheesecake,2026-01-21,10.0,4.0,Dessert
+609,House Salad,2026-01-26,12.0,3.0,App
+610,Cheesecake,2026-01-09,10.0,4.0,Dessert
+611,Lobster Roll,2026-01-03,32.0,22.0,Main
+612,Truffle Fries,2026-01-20,9.0,2.5,App
+613,House Salad,2026-01-25,12.0,3.0,App
+614,Truffle Fries,2026-01-26,9.0,2.5,App
+615,Soda,2026-01-11,3.5,0.5,Beverage
+616,Ribeye Steak,2026-01-06,42.0,18.0,Main
+617,Classic Burger,2026-01-02,15.0,5.0,Main
+618,Cheesecake,2026-01-07,10.0,4.0,Dessert
+619,Draft Beer,2026-01-18,7.0,1.5,Beverage
+620,Ribeye Steak,2026-01-27,42.0,18.0,Main
+621,House Salad,2026-01-02,12.0,3.0,App
+622,Truffle Fries,2026-01-27,9.0,2.5,App
+623,Draft Beer,2026-01-17,7.0,1.5,Beverage
+624,Truffle Fries,2026-01-11,9.0,2.5,App
+625,Lobster Roll,2026-01-27,32.0,22.0,Main
+626,Truffle Fries,2026-01-12,9.0,2.5,App
+627,Lobster Roll,2026-01-27,32.0,22.0,Main
+628,Soda,2026-01-19,3.5,0.5,Beverage
+629,Draft Beer,2026-01-22,7.0,1.5,Beverage
+630,Draft Beer,2026-01-24,7.0,1.5,Beverage
+631,Classic Burger,2026-01-25,15.0,5.0,Main
+632,House Salad,2026-01-07,12.0,3.0,App
+633,Lobster Roll,2026-01-20,32.0,22.0,Main
+634,Classic Burger,2026-01-06,15.0,5.0,Main
+635,Truffle Fries,2026-01-21,9.0,2.5,App
+636,Truffle Fries,2026-01-24,9.0,2.5,App
+637,Classic Burger,2026-01-01,15.0,5.0,Main
+638,Draft Beer,2026-01-17,7.0,1.5,Beverage
+639,Truffle Fries,2026-01-29,9.0,2.5,App
+640,Cheesecake,2026-01-11,10.0,4.0,Dessert
+641,Soda,2026-01-22,3.5,0.5,Beverage
+642,Soda,2026-01-26,3.5,0.5,Beverage
+643,Cheesecake,2026-01-28,10.0,4.0,Dessert
+644,Classic Burger,2026-01-18,15.0,5.0,Main
+645,Cheesecake,2026-01-21,10.0,4.0,Dessert
+646,Lobster Roll,2026-01-17,32.0,22.0,Main
+647,Lobster Roll,2026-01-07,32.0,22.0,Main
+648,Classic Burger,2026-01-17,15.0,5.0,Main
+649,Cheesecake,2026-01-20,10.0,4.0,Dessert
+650,Lobster Roll,2026-01-09,32.0,22.0,Main
+651,Draft Beer,2026-01-17,7.0,1.5,Beverage
+652,Cheesecake,2026-01-20,10.0,4.0,Dessert
+653,Draft Beer,2026-01-22,7.0,1.5,Beverage
+654,Lobster Roll,2026-01-22,32.0,22.0,Main
+655,Soda,2026-01-28,3.5,0.5,Beverage
+656,Lobster Roll,2026-01-29,32.0,22.0,Main
+657,Draft Beer,2026-01-08,7.0,1.5,Beverage
+658,Ribeye Steak,2026-01-17,42.0,18.0,Main
+659,House Salad,2026-01-07,12.0,3.0,App
+660,Truffle Fries,2026-01-01,9.0,2.5,App
+661,Cheesecake,2026-01-13,10.0,4.0,Dessert
+662,Ribeye Steak,2026-01-30,42.0,18.0,Main
+663,Lobster Roll,2026-01-23,32.0,22.0,Main
+664,Soda,2026-01-19,3.5,0.5,Beverage
+665,Classic Burger,2026-01-27,15.0,5.0,Main
+666,Lobster Roll,2026-01-24,32.0,22.0,Main
+667,Soda,2026-01-19,3.5,0.5,Beverage
+668,House Salad,2026-01-30,12.0,3.0,App
+669,Lobster Roll,2026-01-30,32.0,22.0,Main
+670,Draft Beer,2026-01-29,7.0,1.5,Beverage
+671,Classic Burger,2026-01-17,15.0,5.0,Main
+672,Soda,2026-01-13,3.5,0.5,Beverage
+673,Soda,2026-01-29,3.5,0.5,Beverage
+674,Soda,2026-01-30,3.5,0.5,Beverage
+675,House Salad,2026-01-16,12.0,3.0,App
+676,Lobster Roll,2026-01-08,32.0,22.0,Main
+677,House Salad,2026-01-19,12.0,3.0,App
+678,Cheesecake,2026-01-18,10.0,4.0,Dessert
+679,Truffle Fries,2026-01-01,9.0,2.5,App
+680,Truffle Fries,2026-01-14,9.0,2.5,App
+681,Cheesecake,2026-01-19,10.0,4.0,Dessert
+682,Lobster Roll,2026-01-15,32.0,22.0,Main
+683,Draft Beer,2026-01-18,7.0,1.5,Beverage
+684,House Salad,2026-01-02,12.0,3.0,App
+685,Classic Burger,2026-01-22,15.0,5.0,Main
+686,Soda,2026-01-28,3.5,0.5,Beverage
+687,Soda,2026-01-17,3.5,0.5,Beverage
+688,Lobster Roll,2026-01-18,32.0,22.0,Main
+689,Draft Beer,2026-01-30,7.0,1.5,Beverage
+690,Truffle Fries,2026-01-06,9.0,2.5,App
+691,Truffle Fries,2026-01-19,9.0,2.5,App
+692,Soda,2026-01-04,3.5,0.5,Beverage
+693,Lobster Roll,2026-01-01,32.0,22.0,Main
+694,House Salad,2026-01-08,12.0,3.0,App
+695,Truffle Fries,2026-01-29,9.0,2.5,App
+696,House Salad,2026-01-23,12.0,3.0,App
+697,Draft Beer,2026-01-07,7.0,1.5,Beverage
+698,Truffle Fries,2026-01-03,9.0,2.5,App
+699,Truffle Fries,2026-01-10,9.0,2.5,App
+700,Ribeye Steak,2026-01-10,42.0,18.0,Main
+701,Truffle Fries,2026-01-19,9.0,2.5,App
+702,Cheesecake,2026-01-14,10.0,4.0,Dessert
+703,Classic Burger,2026-01-02,15.0,5.0,Main
+704,Cheesecake,2026-01-28,10.0,4.0,Dessert
+705,Lobster Roll,2026-01-01,32.0,22.0,Main
+706,Lobster Roll,2026-01-23,32.0,22.0,Main
+707,House Salad,2026-01-23,12.0,3.0,App
+708,Cheesecake,2026-01-28,10.0,4.0,Dessert
+709,Cheesecake,2026-01-18,10.0,4.0,Dessert
+710,Cheesecake,2026-01-07,10.0,4.0,Dessert
+711,Draft Beer,2026-01-29,7.0,1.5,Beverage
+712,Truffle Fries,2026-01-08,9.0,2.5,App
+713,Classic Burger,2026-01-01,15.0,5.0,Main
+714,House Salad,2026-01-25,12.0,3.0,App
+715,Cheesecake,2026-01-23,10.0,4.0,Dessert
+716,Cheesecake,2026-01-03,10.0,4.0,Dessert
+717,Ribeye Steak,2026-01-24,42.0,18.0,Main
+718,House Salad,2026-01-23,12.0,3.0,App
+719,Cheesecake,2026-01-27,10.0,4.0,Dessert
+720,House Salad,2026-01-29,12.0,3.0,App
+721,Truffle Fries,2026-01-08,9.0,2.5,App
+722,Ribeye Steak,2026-01-22,42.0,18.0,Main
+723,House Salad,2026-01-25,12.0,3.0,App
+724,Classic Burger,2026-01-15,15.0,5.0,Main
+725,Classic Burger,2026-01-05,15.0,5.0,Main
+726,Lobster Roll,2026-01-03,32.0,22.0,Main
+727,Ribeye Steak,2026-01-19,42.0,18.0,Main
+728,Ribeye Steak,2026-01-01,42.0,18.0,Main
+729,Lobster Roll,2026-01-28,32.0,22.0,Main
+730,House Salad,2026-01-15,12.0,3.0,App
+731,Ribeye Steak,2026-01-08,42.0,18.0,Main
+732,Classic Burger,2026-01-02,15.0,5.0,Main
+733,Classic Burger,2026-01-03,15.0,5.0,Main
+734,Cheesecake,2026-01-24,10.0,4.0,Dessert
+735,Truffle Fries,2026-01-14,9.0,2.5,App
+736,Ribeye Steak,2026-01-24,42.0,18.0,Main
+737,House Salad,2026-01-14,12.0,3.0,App
+738,Lobster Roll,2026-01-11,32.0,22.0,Main
+739,Lobster Roll,2026-01-16,32.0,22.0,Main
+740,House Salad,2026-01-04,12.0,3.0,App
+741,Draft Beer,2026-01-20,7.0,1.5,Beverage
+742,Soda,2026-01-05,3.5,0.5,Beverage
+743,Truffle Fries,2026-01-22,9.0,2.5,App
+744,Lobster Roll,2026-01-21,32.0,22.0,Main
+745,Ribeye Steak,2026-01-14,42.0,18.0,Main
+746,Truffle Fries,2026-01-23,9.0,2.5,App
+747,Ribeye Steak,2026-01-16,42.0,18.0,Main
+748,Draft Beer,2026-01-18,7.0,1.5,Beverage
+749,Classic Burger,2026-01-07,15.0,5.0,Main
+750,Truffle Fries,2026-01-10,9.0,2.5,App
+751,Cheesecake,2026-01-07,10.0,4.0,Dessert
+752,Lobster Roll,2026-01-01,32.0,22.0,Main
+753,Truffle Fries,2026-01-23,9.0,2.5,App
+754,Truffle Fries,2026-01-21,9.0,2.5,App
+755,Truffle Fries,2026-01-19,9.0,2.5,App
+756,Soda,2026-01-16,3.5,0.5,Beverage
+757,Truffle Fries,2026-01-29,9.0,2.5,App
+758,Ribeye Steak,2026-01-19,42.0,18.0,Main
+759,Classic Burger,2026-01-04,15.0,5.0,Main
+760,Draft Beer,2026-01-29,7.0,1.5,Beverage
+761,House Salad,2026-01-28,12.0,3.0,App
+762,Truffle Fries,2026-01-18,9.0,2.5,App
+763,Lobster Roll,2026-01-02,32.0,22.0,Main
+764,Truffle Fries,2026-01-01,9.0,2.5,App
+765,Lobster Roll,2026-01-15,32.0,22.0,Main
+766,Ribeye Steak,2026-01-05,42.0,18.0,Main
+767,Lobster Roll,2026-01-20,32.0,22.0,Main
+768,Cheesecake,2026-01-11,10.0,4.0,Dessert
+769,House Salad,2026-01-10,12.0,3.0,App
+770,Classic Burger,2026-01-02,15.0,5.0,Main
+771,Lobster Roll,2026-01-03,32.0,22.0,Main
+772,Lobster Roll,2026-01-23,32.0,22.0,Main
+773,Classic Burger,2026-01-23,15.0,5.0,Main
+774,House Salad,2026-01-12,12.0,3.0,App
+775,Truffle Fries,2026-01-20,9.0,2.5,App
+776,Lobster Roll,2026-01-05,32.0,22.0,Main
+777,Classic Burger,2026-01-05,15.0,5.0,Main
+778,Cheesecake,2026-01-06,10.0,4.0,Dessert
+779,Cheesecake,2026-01-30,10.0,4.0,Dessert
+780,Ribeye Steak,2026-01-09,42.0,18.0,Main
+781,Classic Burger,2026-01-02,15.0,5.0,Main
+782,Ribeye Steak,2026-01-21,42.0,18.0,Main
+783,Cheesecake,2026-01-12,10.0,4.0,Dessert
+784,House Salad,2026-01-03,12.0,3.0,App
+785,Truffle Fries,2026-01-20,9.0,2.5,App
+786,Classic Burger,2026-01-26,15.0,5.0,Main
+787,Draft Beer,2026-01-22,7.0,1.5,Beverage
+788,Cheesecake,2026-01-12,10.0,4.0,Dessert
+789,Cheesecake,2026-01-24,10.0,4.0,Dessert
+790,Draft Beer,2026-01-17,7.0,1.5,Beverage
+791,Soda,2026-01-10,3.5,0.5,Beverage
+792,Cheesecake,2026-01-30,10.0,4.0,Dessert
+793,Lobster Roll,2026-01-24,32.0,22.0,Main
+794,House Salad,2026-01-27,12.0,3.0,App
+795,Classic Burger,2026-01-14,15.0,5.0,Main
+796,Draft Beer,2026-01-23,7.0,1.5,Beverage
+797,Lobster Roll,2026-01-17,32.0,22.0,Main
+798,Draft Beer,2026-01-18,7.0,1.5,Beverage
+799,Classic Burger,2026-01-19,15.0,5.0,Main
+800,Ribeye Steak,2026-01-17,42.0,18.0,Main
+801,Classic Burger,2026-01-14,15.0,5.0,Main
+802,Soda,2026-01-09,3.5,0.5,Beverage
+803,Classic Burger,2026-01-08,15.0,5.0,Main
+804,Classic Burger,2026-01-02,15.0,5.0,Main
+805,Soda,2026-01-13,3.5,0.5,Beverage
+806,House Salad,2026-01-25,12.0,3.0,App
+807,Cheesecake,2026-01-07,10.0,4.0,Dessert
+808,Classic Burger,2026-01-09,15.0,5.0,Main
+809,Soda,2026-01-22,3.5,0.5,Beverage
+810,Lobster Roll,2026-01-22,32.0,22.0,Main
+811,Ribeye Steak,2026-01-11,42.0,18.0,Main
+812,Ribeye Steak,2026-01-14,42.0,18.0,Main
+813,Classic Burger,2026-01-04,15.0,5.0,Main
+814,House Salad,2026-01-26,12.0,3.0,App
+815,House Salad,2026-01-26,12.0,3.0,App
+816,Lobster Roll,2026-01-29,32.0,22.0,Main
+817,Classic Burger,2026-01-13,15.0,5.0,Main
+818,Ribeye Steak,2026-01-02,42.0,18.0,Main
+819,House Salad,2026-01-23,12.0,3.0,App
+820,Classic Burger,2026-01-05,15.0,5.0,Main
+821,Draft Beer,2026-01-11,7.0,1.5,Beverage
+822,House Salad,2026-01-06,12.0,3.0,App
+823,Soda,2026-01-18,3.5,0.5,Beverage
+824,Draft Beer,2026-01-21,7.0,1.5,Beverage
+825,Cheesecake,2026-01-10,10.0,4.0,Dessert
+826,House Salad,2026-01-04,12.0,3.0,App
+827,Ribeye Steak,2026-01-09,42.0,18.0,Main
+828,Truffle Fries,2026-01-06,9.0,2.5,App
+829,Draft Beer,2026-01-02,7.0,1.5,Beverage
+830,Cheesecake,2026-01-17,10.0,4.0,Dessert
+831,Lobster Roll,2026-01-05,32.0,22.0,Main
+832,Lobster Roll,2026-01-25,32.0,22.0,Main
+833,Ribeye Steak,2026-01-06,42.0,18.0,Main
+834,House Salad,2026-01-26,12.0,3.0,App
+835,Classic Burger,2026-01-12,15.0,5.0,Main
+836,House Salad,2026-01-23,12.0,3.0,App
+837,Ribeye Steak,2026-01-21,42.0,18.0,Main
+838,Lobster Roll,2026-01-10,32.0,22.0,Main
+839,House Salad,2026-01-22,12.0,3.0,App
+840,Lobster Roll,2026-01-21,32.0,22.0,Main
+841,Draft Beer,2026-01-27,7.0,1.5,Beverage
+842,Cheesecake,2026-01-25,10.0,4.0,Dessert
+843,Classic Burger,2026-01-06,15.0,5.0,Main
+844,Draft Beer,2026-01-27,7.0,1.5,Beverage
+845,Lobster Roll,2026-01-08,32.0,22.0,Main
+846,Lobster Roll,2026-01-02,32.0,22.0,Main
+847,Truffle Fries,2026-01-12,9.0,2.5,App
+848,Truffle Fries,2026-01-13,9.0,2.5,App
+849,Draft Beer,2026-01-25,7.0,1.5,Beverage
+850,Soda,2026-01-21,3.5,0.5,Beverage
+851,Draft Beer,2026-01-07,7.0,1.5,Beverage
+852,Truffle Fries,2026-01-10,9.0,2.5,App
+853,Lobster Roll,2026-01-13,32.0,22.0,Main
+854,Ribeye Steak,2026-01-17,42.0,18.0,Main
+855,Draft Beer,2026-01-26,7.0,1.5,Beverage
+856,Lobster Roll,2026-01-21,32.0,22.0,Main
+857,Ribeye Steak,2026-01-28,42.0,18.0,Main
+858,Ribeye Steak,2026-01-30,42.0,18.0,Main
+859,Truffle Fries,2026-01-26,9.0,2.5,App
+860,Draft Beer,2026-01-14,7.0,1.5,Beverage
+861,House Salad,2026-01-02,12.0,3.0,App
+862,Classic Burger,2026-01-28,15.0,5.0,Main
+863,Truffle Fries,2026-01-22,9.0,2.5,App
+864,Truffle Fries,2026-01-11,9.0,2.5,App
+865,House Salad,2026-01-01,12.0,3.0,App
+866,Classic Burger,2026-01-19,15.0,5.0,Main
+867,Lobster Roll,2026-01-21,32.0,22.0,Main
+868,Soda,2026-01-04,3.5,0.5,Beverage
+869,Draft Beer,2026-01-19,7.0,1.5,Beverage
+870,Soda,2026-01-26,3.5,0.5,Beverage
+871,Lobster Roll,2026-01-29,32.0,22.0,Main
+872,Cheesecake,2026-01-21,10.0,4.0,Dessert
+873,Truffle Fries,2026-01-11,9.0,2.5,App
+874,Classic Burger,2026-01-08,15.0,5.0,Main
+875,Truffle Fries,2026-01-11,9.0,2.5,App
+876,Ribeye Steak,2026-01-04,42.0,18.0,Main
+877,Truffle Fries,2026-01-17,9.0,2.5,App
+878,Truffle Fries,2026-01-27,9.0,2.5,App
+879,Lobster Roll,2026-01-07,32.0,22.0,Main
+880,Lobster Roll,2026-01-08,32.0,22.0,Main
+881,Lobster Roll,2026-01-03,32.0,22.0,Main
+882,Soda,2026-01-22,3.5,0.5,Beverage
+883,Ribeye Steak,2026-01-02,42.0,18.0,Main
+884,Cheesecake,2026-01-23,10.0,4.0,Dessert
+885,Cheesecake,2026-01-15,10.0,4.0,Dessert
+886,Lobster Roll,2026-01-24,32.0,22.0,Main
+887,Classic Burger,2026-01-22,15.0,5.0,Main
+888,Soda,2026-01-22,3.5,0.5,Beverage
+889,House Salad,2026-01-05,12.0,3.0,App
+890,Classic Burger,2026-01-24,15.0,5.0,Main
+891,Draft Beer,2026-01-01,7.0,1.5,Beverage
+892,Draft Beer,2026-01-26,7.0,1.5,Beverage
+893,Classic Burger,2026-01-04,15.0,5.0,Main
+894,Lobster Roll,2026-01-15,32.0,22.0,Main
+895,House Salad,2026-01-20,12.0,3.0,App
+896,House Salad,2026-01-19,12.0,3.0,App
+897,Soda,2026-01-03,3.5,0.5,Beverage
+898,House Salad,2026-01-20,12.0,3.0,App
+899,Draft Beer,2026-01-11,7.0,1.5,Beverage
+900,Ribeye Steak,2026-01-17,42.0,18.0,Main
+901,Lobster Roll,2026-01-30,32.0,22.0,Main
+902,House Salad,2026-01-27,12.0,3.0,App
+903,Soda,2026-01-13,3.5,0.5,Beverage
+904,Draft Beer,2026-01-11,7.0,1.5,Beverage
+905,Ribeye Steak,2026-01-02,42.0,18.0,Main
+906,Truffle Fries,2026-01-09,9.0,2.5,App
+907,Truffle Fries,2026-01-26,9.0,2.5,App
+908,Ribeye Steak,2026-01-02,42.0,18.0,Main
+909,Draft Beer,2026-01-21,7.0,1.5,Beverage
+910,Soda,2026-01-09,3.5,0.5,Beverage
+911,Ribeye Steak,2026-01-09,42.0,18.0,Main
+912,Lobster Roll,2026-01-08,32.0,22.0,Main
+913,Lobster Roll,2026-01-17,32.0,22.0,Main
+914,Truffle Fries,2026-01-01,9.0,2.5,App
+915,House Salad,2026-01-25,12.0,3.0,App
+916,Soda,2026-01-29,3.5,0.5,Beverage
+917,Truffle Fries,2026-01-11,9.0,2.5,App
+918,House Salad,2026-01-08,12.0,3.0,App
+919,House Salad,2026-01-10,12.0,3.0,App
+920,Cheesecake,2026-01-25,10.0,4.0,Dessert
+921,Lobster Roll,2026-01-07,32.0,22.0,Main
+922,Draft Beer,2026-01-03,7.0,1.5,Beverage
+923,Classic Burger,2026-01-03,15.0,5.0,Main
+924,Draft Beer,2026-01-18,7.0,1.5,Beverage
+925,Classic Burger,2026-01-05,15.0,5.0,Main
+926,Ribeye Steak,2026-01-12,42.0,18.0,Main
+927,Lobster Roll,2026-01-12,32.0,22.0,Main
+928,House Salad,2026-01-19,12.0,3.0,App
+929,Soda,2026-01-30,3.5,0.5,Beverage
+930,Classic Burger,2026-01-06,15.0,5.0,Main
+931,Draft Beer,2026-01-02,7.0,1.5,Beverage
+932,House Salad,2026-01-12,12.0,3.0,App
+933,Classic Burger,2026-01-19,15.0,5.0,Main
+934,Classic Burger,2026-01-05,15.0,5.0,Main
+935,Cheesecake,2026-01-12,10.0,4.0,Dessert
+936,Classic Burger,2026-01-27,15.0,5.0,Main
+937,Soda,2026-01-27,3.5,0.5,Beverage
+938,Lobster Roll,2026-01-17,32.0,22.0,Main
+939,Soda,2026-01-29,3.5,0.5,Beverage
+940,Truffle Fries,2026-01-17,9.0,2.5,App
+941,House Salad,2026-01-10,12.0,3.0,App
+942,Lobster Roll,2026-01-25,32.0,22.0,Main
+943,Cheesecake,2026-01-23,10.0,4.0,Dessert
+944,Lobster Roll,2026-01-17,32.0,22.0,Main
+945,Lobster Roll,2026-01-15,32.0,22.0,Main
+946,Draft Beer,2026-01-12,7.0,1.5,Beverage
+947,Lobster Roll,2026-01-30,32.0,22.0,Main
+948,Cheesecake,2026-01-16,10.0,4.0,Dessert
+949,Soda,2026-01-24,3.5,0.5,Beverage
+950,Lobster Roll,2026-01-19,32.0,22.0,Main
+951,Ribeye Steak,2026-01-08,42.0,18.0,Main
+952,House Salad,2026-01-21,12.0,3.0,App
+953,Lobster Roll,2026-01-17,32.0,22.0,Main
+954,House Salad,2026-01-23,12.0,3.0,App
+955,Ribeye Steak,2026-01-05,42.0,18.0,Main
+956,Ribeye Steak,2026-01-22,42.0,18.0,Main
+957,House Salad,2026-01-16,12.0,3.0,App
+958,Classic Burger,2026-01-06,15.0,5.0,Main
+959,Truffle Fries,2026-01-08,9.0,2.5,App
+960,Draft Beer,2026-01-25,7.0,1.5,Beverage
+961,Classic Burger,2026-01-18,15.0,5.0,Main
+962,Classic Burger,2026-01-25,15.0,5.0,Main
+963,Soda,2026-01-12,3.5,0.5,Beverage
+964,Draft Beer,2026-01-15,7.0,1.5,Beverage
+965,Draft Beer,2026-01-27,7.0,1.5,Beverage
+966,Classic Burger,2026-01-26,15.0,5.0,Main
+967,Lobster Roll,2026-01-09,32.0,22.0,Main
+968,Soda,2026-01-13,3.5,0.5,Beverage
+969,Soda,2026-01-26,3.5,0.5,Beverage
+970,Ribeye Steak,2026-01-15,42.0,18.0,Main
+971,Cheesecake,2026-01-10,10.0,4.0,Dessert
+972,Draft Beer,2026-01-16,7.0,1.5,Beverage
+973,Classic Burger,2026-01-07,15.0,5.0,Main
+974,Ribeye Steak,2026-01-17,42.0,18.0,Main
+975,House Salad,2026-01-23,12.0,3.0,App
+976,Truffle Fries,2026-01-26,9.0,2.5,App
+977,Cheesecake,2026-01-21,10.0,4.0,Dessert
+978,Cheesecake,2026-01-22,10.0,4.0,Dessert
+979,Cheesecake,2026-01-26,10.0,4.0,Dessert
+980,Soda,2026-01-07,3.5,0.5,Beverage
+981,House Salad,2026-01-14,12.0,3.0,App
+982,Cheesecake,2026-01-15,10.0,4.0,Dessert
+983,House Salad,2026-01-21,12.0,3.0,App
+984,Lobster Roll,2026-01-07,32.0,22.0,Main
+985,Cheesecake,2026-01-09,10.0,4.0,Dessert
+986,Truffle Fries,2026-01-19,9.0,2.5,App
+987,House Salad,2026-01-16,12.0,3.0,App
+988,House Salad,2026-01-08,12.0,3.0,App
+989,Truffle Fries,2026-01-18,9.0,2.5,App
+990,Cheesecake,2026-01-27,10.0,4.0,Dessert
+991,Truffle Fries,2026-01-23,9.0,2.5,App
+992,House Salad,2026-01-29,12.0,3.0,App
+993,Truffle Fries,2026-01-18,9.0,2.5,App
+994,House Salad,2026-01-30,12.0,3.0,App
+995,House Salad,2026-01-20,12.0,3.0,App
+996,Lobster Roll,2026-01-07,32.0,22.0,Main
+997,Classic Burger,2026-01-03,15.0,5.0,Main
+998,House Salad,2026-01-18,12.0,3.0,App
+999,Cheesecake,2026-01-27,10.0,4.0,Dessert
+1000,Ribeye Steak,2026-01-10,42.0,18.0,Main

@@ -1,36 +1,37 @@
 import pandas as pd
+import matplotlib.pyplot as plt
+import seaborn as sns
 
-# 1. Setup the data (Simulating a Restaurant POS Export)
-data = {
-    'item_name': ['Truffle Fries', 'Classic Burger', 'Ribeye Steak', 'House Salad', 'Lobster Roll', 'Soda'],
-    'units_sold': [450, 600, 150, 300, 80, 800],
-    'menu_price': [12.00, 18.00, 45.00, 10.00, 35.00, 3.50],
-    'food_cost': [3.00, 6.00, 22.00, 2.00, 25.00, 0.50]
-}
+# Load the bulk data
+df_raw = pd.read_csv('restaurant_transactions.csv')
 
-df = pd.DataFrame(data)
+# Aggregate the data
+menu_stats = df_raw.groupby('item_name').agg(
+    units_sold=('item_name', 'count'),
+    avg_price=('menu_price', 'mean'),
+    avg_cost=('food_cost', 'mean')
+).reset_index()
 
-# 2. Calculate Key Performance Indicators (KPIs)
-df['margin'] = df['menu_price'] - df['food_cost']
-df['total_profit'] = df['units_sold'] * df['margin']
+menu_stats['margin'] = menu_stats['avg_price'] - menu_stats['avg_cost']
 
-# 3. Define the Menu Matrix Logic
-avg_margin = df['margin'].mean()
-avg_vol = df['units_sold'].mean()
+# Quadrant Logic
+avg_margin = menu_stats['margin'].mean()
+avg_vol = menu_stats['units_sold'].mean()
 
-def get_category(row):
-    if row['margin'] >= avg_margin and row['units_sold'] >= avg_vol:
-        return 'Star'
-    if row['margin'] < avg_margin and row['units_sold'] >= avg_vol:
-        return 'Plowhorse'
-    if row['margin'] >= avg_margin and row['units_sold'] < avg_vol:
-        return 'Puzzle'
-    return 'Dog'
+# Visualization
+plt.figure(figsize=(10, 6))
+sns.scatterplot(data=menu_stats, x='units_sold', y='margin', s=100, color='darkblue')
 
-df['category'] = df.apply(get_category, axis=1)
+# Add Quadrant Lines
+plt.axvline(avg_vol, color='red', linestyle='--', alpha=0.5)
+plt.axhline(avg_margin, color='red', linestyle='--', alpha=0.5)
 
-# 4. Save and Print Results
-print("--- Menu Engineering Analysis ---")
-print(df[['item_name', 'units_sold', 'margin', 'category']])
-df.to_csv('menu_analysis_results.csv', index=False)
-print("\n✅ Success! 'menu_analysis_results.csv' has been created.")
+# Annotate points
+for i in range(menu_stats.shape[0]):
+    plt.text(menu_stats.units_sold[i]+2, menu_stats.margin[i], menu_stats.item_name[i])
+
+plt.title('Menu Engineering Matrix (Toast Analytics Style)')
+plt.xlabel('Popularity (Units Sold)')
+plt.ylabel('Profitability (Margin $)')
+plt.savefig('menu_matrix_chart.png')
+print("✅ Visualization saved as 'menu_matrix_chart.png'")
