@@ -1,5 +1,6 @@
 import pandas as pd
 import numpy as np
+pip install seaborn matplotlib
 
 # 1. POS
 data = {
