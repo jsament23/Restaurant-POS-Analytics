@@ -1,0 +1,7 @@
+item_name,units_sold,menu_price,food_cost,margin,total_profit,category
+Truffle Fries,450,12.0,3.0,9.0,4050.0,Plowhorse
+Classic Burger,600,18.0,6.0,12.0,7200.0,Star
+Ribeye Steak,150,45.0,22.0,23.0,3450.0,Puzzle
+House Salad,300,10.0,2.0,8.0,2400.0,Dog
+Lobster Roll,80,35.0,25.0,10.0,800.0,Dog
+Soda,800,3.5,0.5,3.0,2400.0,Plowhorse
